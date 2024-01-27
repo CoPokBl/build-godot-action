@@ -37,3 +37,4 @@ then
     echo ::set-output name=artifact::package/artifact.zip
     echo "Done"
 fi
+
